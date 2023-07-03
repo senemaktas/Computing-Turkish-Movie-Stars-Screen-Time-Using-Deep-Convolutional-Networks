@@ -6,3 +6,5 @@
 
 ##### Paper : https://www.researchgate.net/publication/353326673_Computing_Turkish_Movie_Stars_Screen_Time_Using_Deep_Convolutional_Networks
 
+[sample image](https://github.com/senemaktas/Computing-Turkish-Movie-Stars-Screen-Time-Using-Deep-Convolutional-Networks/blob/31437578119fa0360637bd63f409af712802e77b/figures/exampleOfFrames.pdf)
+
